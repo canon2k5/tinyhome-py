@@ -143,6 +143,3 @@ If you want maximum portability with zero dependencies, use the original. If you
 - Icons: [Font Awesome](https://fontawesome.com)
 - Font: [Inter](https://fonts.google.com/specimen/Inter)
 
-## License
-
-MIT — do whatever you want with it.
