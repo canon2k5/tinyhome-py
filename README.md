@@ -33,6 +33,9 @@ Perfect for homelabs, internal intranets, self-hosted dashboards, or anywhere yo
 
 Open `index.html` in your browser. That's it.
 
+![darkmode](images/darkmode.jpg)
+![lightmode](images/lightmode.jpg)
+
 ## Configuration
 
 Edit `config.ini` to customize your dashboard:
