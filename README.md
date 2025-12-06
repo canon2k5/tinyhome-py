@@ -1,4 +1,4 @@
-# TinyHome
+# tinyhome-py
 
 A minimal, modern dashboard generator. Two files, no dependencies, beautiful output.
 
@@ -9,6 +9,11 @@ Perfect for homelabs, internal intranets, self-hosted dashboards, or anywhere yo
 ![Dark mode](https://img.shields.io/badge/dark%20mode-supported-blue)
 ![Python 3](https://img.shields.io/badge/python-3.x-green)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
+<p align="center">
+  <img src="images/darkmode.jpg" width="45%" alt="Dark mode">
+  <img src="images/lightmode.jpg" width="45%" alt="Light mode">
+</p>
 
 ## Features
 
